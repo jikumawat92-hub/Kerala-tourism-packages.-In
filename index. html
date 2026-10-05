@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1RGT0Q8B69"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-1RGT0Q8B69');
+</script>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Kerala Tourism Packages</title>
+
+<meta name="description" content="Explore best Kerala Tourism Packages. Discover Munnar, Wayanad, Alappuzha houseboats, Kovalam, backwaters and exclusive Kerala holiday tour packages. Contact us at Cherthala, Alappuzha. Enquire on WhatsApp.">
+
+<meta name="robots" content="index, follow">
+<meta name="author" content="Kerala Tourism Packages">
+
+<meta name="keywords" content="Kerala tourism packages, Kerala tour packages, Cherthala tourism, Alappuzha houseboat packages, Kerala holiday packages, Kerala travel booking">
+
+<meta name="theme-color" content="#075e54">
+
+<!-- CANONICAL URL -->
+<link rel="canonical" href="
